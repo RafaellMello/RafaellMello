@@ -32,7 +32,7 @@ Confira mais projetos e detalhes no meu site pessoal:
 ---
 
 ## 🚀 Tecnologias utilizadas
-
+[![Habilidades:](https://skillicons.dev/icons?i=js,html,css,react,js,node,git,vscode)](https://skillicons.dev)
 - **HTML5 & CSS3** — Estrutura e estilos modernos  
 - **JavaScript, React & Node.js** — Interatividade e desenvolvimento SPA  
 - **Git & GitHub** — Controle de versão e colaboração  
