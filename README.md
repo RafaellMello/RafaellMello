@@ -3,7 +3,7 @@
 
 ## 📂 Sobre mim
 
-Sou desenvolvedor web com experiência em criar sites sofisticados, responsivos e focados na melhor experiência do usuário, desde ㅤE-Commerces completos, Landing Pages, Forms. Utilizando as melhores práticas de desenvolvimento front-end.
+Sou desenvolvedor web com experiência em criar sites sofisticados, responsivos e focados na melhor experiência do usuário, desde ㅤㅤE-Commerces completos, Landing Pages, Forms. Utilizando as melhores práticas de desenvolvimento front-end.
 
 Confira mais projetos e detalhes no meu site pessoal:  
 👉 [https://rafaellmello.github.io/portfolio/](https://rafaellmello.github.io/portfolio/)
