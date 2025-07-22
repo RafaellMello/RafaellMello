@@ -23,8 +23,8 @@ Confira mais projetos e detalhes no meu site pessoal:
 
 ## 🏦 Projetos de Landing Pages
 
-| Projeto                         | Status             | Link para Projeto                           |
-|--------------------------------|---------------------|--------------------------------------------|
+| Projeto                         | Status             |
+|--------------------------------|---------------------|
 | **Portal do Contribuinte - PMDC** | Concluído           |
 | **Fiorelle Landing Page**         | Concluído           |
 | **Curso de Advocacia (Kiwify)**   | Em Desenvolvimento  |
