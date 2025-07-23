@@ -1,9 +1,6 @@
 # Rafael Mello - Desenvolvedor Web
 [![Habilidades:](https://skillicons.dev/icons?i=html,css,react,js,nodejs,git,github,vscode)](https://skillicons.dev)
 
-![snake gif](https://github.com/rafaellmello/snk/raw/output/github-contribution-grid-snake.svg)
-
-
 ## 📂 Sobre mim
 
 Sou desenvolvedor web com experiência em criar sites sofisticados, responsivos e focados na melhor experiência do usuário, desde E-Commerces completos, Landing Pages, Forms. Utilizando as melhores práticas de desenvolvimento front-end.
