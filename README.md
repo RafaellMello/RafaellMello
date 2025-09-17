@@ -1,7 +1,7 @@
 # Rafael Mello - Web Developer Pleno
 
 ## 💡 Habilidades
-[![Habilidades:](https://skillicons.dev/icons?i=html,css,js,react,json,python,git,github)](https://skillicons.dev)
+[![Habilidades:](https://skillicons.dev/icons?i=html,css,js,react,python,git,github)](https://skillicons.dev)
 
 ## 💬 Sobre mim
 
