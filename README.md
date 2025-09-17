@@ -1,9 +1,9 @@
 # Rafael Mello - Web Developer Pleno
 
-## 💡 Habilidades
+## Habilidades
 [![Habilidades:](https://skillicons.dev/icons?i=html,css,js,react,python,git,github)](https://skillicons.dev)
 
-## 💬 Sobre mim
+## Sobre mim
 
 Sou um Desenvolvedor Web com experiência em criar sites sofisticados, responsivos e focados na melhor experiência do usuário, desde E-Commerces completos, Landing Pages, Forms. Utilizando as melhores práticas de desenvolvimento front-end.
 
@@ -13,7 +13,7 @@ Confira mais projetos e detalhes no meu site pessoal:
 
 ---
 
-## 🛒 Projetos de E-Commerce
+## Projetos de E-Commerce
 
 | Projeto                         | Status              |
 |--------------------------------|----------------------|
@@ -24,7 +24,7 @@ Confira mais projetos e detalhes no meu site pessoal:
 
 ---
 
-## 🏦 Projetos de Landing Pages
+## Projetos de Landing Pages
 
 | Projeto                         | Status             |
 |--------------------------------|---------------------|
@@ -35,7 +35,7 @@ Confira mais projetos e detalhes no meu site pessoal:
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## Tecnologias utilizadas
 - **HTML5 & CSS3** — Estrutura e estilos modernos  
 - **JavaScript, React & Node.js** — Interatividade e desenvolvimento SPA  
 - **Git & GitHub** — Controle de versão e colaboração  
@@ -43,7 +43,7 @@ Confira mais projetos e detalhes no meu site pessoal:
 
 ---
 
-## 🤝 Contato
+## Contato
 
 Quer conversar ou contratar meus serviços?  
 📧 E-mail: rafaellpmello@gmail.com
