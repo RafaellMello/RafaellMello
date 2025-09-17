@@ -46,7 +46,7 @@ Confira mais projetos e detalhes no meu site pessoal:
 ## 🤝 Contato
 
 Quer conversar ou contratar meus serviços?  
-📧 E-mail: rafaellmellotrabalhos@outlook.com
+📧 E-mail: rafaellpmello@gmail.com
 🔗 LinkedIn: [Acesso](https://www.linkedin.com/in/rafael-mello-a5b22330b/)
 
 ---
