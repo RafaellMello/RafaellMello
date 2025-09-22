@@ -39,7 +39,7 @@ Confira mais projetos e detalhes no meu site pessoal:
 - **HTML5 & CSS3** — Estrutura e estilos modernos  
 - **JavaScript, React & Node.js** — Interatividade e desenvolvimento SPA  
 - **Git & GitHub** — Controle de versão e colaboração  
-- **Ferramentas** — VSCode, Chrome DevTools, Figma (design)
+- **Ferramentas** — VSCode, Figma (design)
 
 ---
 
