@@ -30,7 +30,7 @@ Confira mais projetos e detalhes no meu site pessoal:
 |--------------------------------|---------------------|
 | **Portal do Contribuinte - PMDC** | Concluído           |
 | **Fiorelle Landing Page**         | Concluído           |
-| **Meriti Nota Fácil - PMSJM)**   | Em Desenvolvimento  |
+| **Meriti Nota Fácil - PMSJM**   | Em Desenvolvimento  |
 | **Curso de Advocacia (Kiwify)**   | Em Desenvolvimento  |
 
 ---
