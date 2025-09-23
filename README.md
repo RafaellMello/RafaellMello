@@ -1,4 +1,4 @@
-# Rafael Mello - Front End Developer Pleno
+# Rafael Mello - Front End Developer 
 
 ## ➥ Habilidades
 [![Habilidades:](https://skillicons.dev/icons?i=html,css,js,react,python,git,github)](https://skillicons.dev)
