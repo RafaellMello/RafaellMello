@@ -17,20 +17,21 @@ Confira mais projetos e detalhes no meu site pessoal:
 
 | Projeto                         | Status              |
 |--------------------------------|----------------------|
-| **Sunrio E-Commerce**           | Concluído           |
+| **Sunrio**                      | Concluído           |
 | **Leopardo Beachwear**          | Concluído           |
 | **Lour Fitness**                | Concluído           |
 | **Farmácia PharmaZoe**          | Concluído           |
+| **Divino Corpo**                | Concluído           |
 
 ---
 
-## ➥ Projetos de Landing Pages
+## ➥ Projetos de Landing Pages / Sites INstitucionais
 
 | Projeto                         | Status             |
 |--------------------------------|---------------------|
 | **Portal do Contribuinte - PMDC** | Concluído           |
 | **Fiorelle Landing Page**         | Concluído           |
-| **Meriti Nota Fácil - PMSJM**   | Em Desenvolvimento  |
+| **Meriti Nota Fácil - PMSJM**     | Concluído           |
 | **Curso de Advocacia (Kiwify)**   | Em Desenvolvimento  |
 
 ---
