@@ -10,6 +10,17 @@ Sou um Desenvolvedor Web com experiência em criar sites sofisticados, responsiv
 Confira mais projetos e detalhes no meu site pessoal:  
 👉 [https://rafaelmello.site/](https://rafaelmello.site/)
 
+---
+
+## ➥ Projetos de Landing Pages / Sites INstitucionais
+
+| Projeto                         | Status             |
+|--------------------------------|---------------------|
+| **Portal do Contribuinte - PMDC** | Concluído           |
+| **Giuseppe's Pizzeria**           | Concluído           |
+| **Fiorelle Landing Page**         | Concluído           |
+| **Meriti Nota Fácil - PMSJM**     | Concluído           |
+| **AdvocaFácil (Kiwify)**          | Em Desenvolvimento  |
 
 ---
 
@@ -21,18 +32,7 @@ Confira mais projetos e detalhes no meu site pessoal:
 | **Leopardo Beachwear**          | Concluído           |
 | **Lour Fitness**                | Concluído           |
 | **Farmácia PharmaZoe**          | Concluído           |
-| **Divino Corpo**                | Concluído           |
-
----
-
-## ➥ Projetos de Landing Pages / Sites INstitucionais
-
-| Projeto                         | Status             |
-|--------------------------------|---------------------|
-| **Portal do Contribuinte - PMDC** | Concluído           |
-| **Fiorelle Landing Page**         | Concluído           |
-| **Meriti Nota Fácil - PMSJM**     | Concluído           |
-| **Curso de Advocacia (Kiwify)**   | Em Desenvolvimento  |
+| **Divino Corpo**                | Em Desenvolvimento  |
 
 ---
 
