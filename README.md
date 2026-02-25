@@ -12,15 +12,15 @@ Confira mais projetos e detalhes no meu site pessoal:
 
 ---
 
-## ➥ Projetos de Landing Pages / Sites INstitucionais
+## ➥ Projetos de Landing Pages / Sites Institucionais
 
 | Projeto                         | Status             |
 |--------------------------------|---------------------|
 | **Portal do Contribuinte - PMDC** | Concluído           |
 | **Giuseppe's Pizzeria**           | Concluído           |
-| **Fiorelle Landing Page**         | Concluído           |
+| **Fiorelle Semijóias**         | Concluído           |
 | **Meriti Nota Fácil - PMSJM**     | Concluído           |
-| **AdvocaFácil (Kiwify)**          | Em Desenvolvimento  |
+| **AdvocaFácil**          | Em Desenvolvimento  |
 
 ---
 
@@ -47,8 +47,9 @@ Confira mais projetos e detalhes no meu site pessoal:
 ## ➥ Contato
 
 Quer conversar ou contratar meus serviços?  
-📧 E-mail: rafaellpmello@gmail.com
+📧 E-mail: rafaellmellotrabalhos@gmail.com
 🔗 LinkedIn: [Acesso](https://www.linkedin.com/in/rafael-mello-a5b22330b/)
+📱 Meu Site contendo os Projetos: [https://rafaelmello.site/](https://rafaelmello.site/)
 
 ---
 
