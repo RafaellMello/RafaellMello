@@ -17,9 +17,9 @@ Confira mais projetos e detalhes no meu site pessoal:
 | Projeto                         | Status             |
 |--------------------------------|---------------------|
 | **Portal do Contribuinte - PMDC** | Concluído           |
+| **Meriti Nota Fácil - PMSJM**     | Concluído           |
 | **Giuseppe's Pizzeria LP**        | Concluído           |
 | **Fiorelle Semijóias LP**         | Concluído           |
-| **Meriti Nota Fácil - PMSJM**     | Concluído           |
 | **Bendito Armazém LP**            | Concluído           |
 | **Misturêra Gelato LP**           | Concluído           |
 
