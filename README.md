@@ -14,8 +14,8 @@ Confira mais projetos e detalhes no meu site pessoal:
 
 ## ➥ Projetos de Landing Pages / Sites Institucionais
 
-| Projeto                         | Status             |
-|--------------------------------|---------------------|
+| Projeto                           | Status              |
+|-----------------------------------|---------------------|
 | **Portal do Contribuinte - PMDC** | Concluído           |
 | **Meriti Nota Fácil - PMSJM**     | Concluído           |
 | **Giuseppe's Pizzeria LP**        | Concluído           |
@@ -29,7 +29,7 @@ Confira mais projetos e detalhes no meu site pessoal:
 ## ➥ Projetos de E-Commerce
 
 | Projeto                         | Status              |
-|--------------------------------|----------------------|
+|---------------------------------|---------------------|
 | **Sunrio**                      | Concluído           |
 | **Leopardo Beachwear**          | Concluído           |
 | **Lour Fitness**                | Concluído           |
@@ -39,7 +39,7 @@ Confira mais projetos e detalhes no meu site pessoal:
 ---
 
 ## ➥ Tecnologias utilizadas
-- **HTML5, CSS3, Shopify, Liquid & Schema ** — Estrutura e estilos modernos  
+- **HTML5, CSS3, Shopify, Liquid & Schema** — Estrutura e estilos modernos  
 - **JavaScript, React & Node.js** — Interatividade e desenvolvimento SPA  
 - **Git & GitHub** — Controle de versão e colaboração  
 - **Ferramentas** — VSCode, Figma (design)
