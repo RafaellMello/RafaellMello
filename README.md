@@ -21,7 +21,6 @@ Confira mais projetos e detalhes no meu site pessoal:
 | **Giuseppe's Pizzeria LP**        | Concluído           |
 | **Fiorelle Semijóias LP**         | Concluído           |
 | **Bendito Armazém LP**            | Concluído           |
-| **Misturêra Gelato LP**           | Concluído           |
 | **O Estandarte é o Amor - Livro** | Em Desenvolvimento  |
 
 ---
