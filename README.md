@@ -38,7 +38,7 @@ Confira mais projetos e detalhes no meu site pessoal:
 ---
 
 ## ➥ Tecnologias utilizadas
-- **HTML5, CSS3, Shopify, Liquid & Schema** — Estrutura e estilos modernos  
+- **HTML5, CSS3, PHP, Liquid & Schema** — Estrutura e estilos modernos  
 - **JavaScript, React & Node.js** — Interatividade e desenvolvimento SPA  
 - **Git & GitHub** — Controle de versão e colaboração  
 - **Ferramentas** — VSCode, Figma (design)
