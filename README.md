@@ -55,4 +55,4 @@ Quer conversar ou contratar meus serviços?
 ---
 
 **Obrigado pela visita!**  
-Rafael Mello © 2025
+Rafael Mello © 2026
