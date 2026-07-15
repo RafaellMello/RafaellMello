@@ -18,9 +18,9 @@ Confira mais projetos e detalhes no meu site pessoal:
 |-----------------------------------|---------------------|
 | **Portal do Contribuinte - PMDC** | Concluído           |
 | **Meriti Nota Fácil - PMSJM**     | Concluído           |
-| **Giuseppe's Pizzeria **          | Concluído           |
-| **Fiorelle Semijóias **           | Concluído           |
-| **ACTOP Engenharia **             | Concluído           |
+| **Giuseppe's Pizzeria**           | Concluído           |
+| **Fiorelle Semijóias**            | Concluído           |
+| **ACTOP Engenharia**              | Concluído           |
 | **O Estandarte é o Amor - Livro** | Em Desenvolvimento  |
 
 ---
