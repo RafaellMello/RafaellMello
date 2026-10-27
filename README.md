@@ -21,7 +21,7 @@ Confira mais projetos e detalhes no meu site pessoal:
 | **Giuseppe's Pizzeria**           | Concluído           |
 | **Fiorelle Semijóias**            | Concluído           |
 | **ACTOP Engenharia**              | Concluído           |
-| **O Estandarte é o Amor - Livro** | Em Desenvolvimento  |
+| **TelinhaFix App**                | Concluído           |
 
 ---
 
@@ -33,7 +33,8 @@ Confira mais projetos e detalhes no meu site pessoal:
 | **Leopardo Beachwear**          | Concluído           |
 | **Lour Fitness**                | Concluído           |
 | **Farmácia PharmaZoe**          | Concluído           |
-| **Divino Corpo**                | Em Desenvolvimento  |
+| **Divino Corpo**                | Concluído           |
+| **CEDRI**                       | Em Desenvolvimento  |
 
 ---
 
